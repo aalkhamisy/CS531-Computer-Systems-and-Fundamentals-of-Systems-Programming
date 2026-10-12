@@ -2,7 +2,7 @@
 //  HW2.c
 //  CS531_HW2
 //
-//  Created by ADEL ALKHAMISY on 3/12/22.
+//  Created by ADEL ALKHAMISY.
 //
 
 
