@@ -2,7 +2,7 @@
 //  main.c
 //  CS531_HW4_Final_Version
 //
-//  Created by ADEL ALKHAMISY on 10/21/22.
+//  Created by ADEL ALKHAMISY
 //
 
 
