@@ -2,7 +2,7 @@
 * main.c
 * HW1
 *
-* Created by ADEL HAMAD H ALKHAMISY on 2/9/22.
+* Created by ADEL HAMAD H ALKHAMISY.
 * 
 */
 
