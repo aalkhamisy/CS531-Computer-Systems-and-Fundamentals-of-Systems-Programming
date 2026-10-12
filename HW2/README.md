@@ -1,4 +1,4 @@
-Title: Homework 2 in CS531 on Spring 2022 at GMU
+Title: Project 2 in CS531 
 
 Introduction/Description:
 The majority of machines connected to the internet have 32 bit IPv4 addresses. IPv4 addresses are typically expressed in dotted decimal notation since reading these addresses would be challenging using binary or hexadecimal notation. For representational purposes, the address's 32 bits can be broken down into four octets (bytes), each of which can be expressed as a decimal integer ranging from 0 to 255. These four octets can then be concatenated to form a character string with a full stop (ASCII 46) in between them. The location of the computer on the network is indicated by the address's first two elements.
