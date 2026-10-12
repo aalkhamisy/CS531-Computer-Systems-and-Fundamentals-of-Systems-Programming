@@ -2,7 +2,7 @@
 //  main.c
 //  CS531_HW3_V3
 //
-//  Created by ADEL ALKHAMISY on 10/14/22.
+//  Created by ADEL ALKHAMISY.
 //
 
 #include <stdio.h>
