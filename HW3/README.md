@@ -1,8 +1,8 @@
-**Title: Homework 2 in CS531 on Spring 2022 at GMU**
+**Title: Project3**
 **Introduction/Description:**
-Homework 2 is built on by Homework 3.Remember that the datafile "CS531_Inet.txt" contains the contents of our application in HW2? An IPv4 address and alias pair are found on each line of the file "CS531_Inet.txt".
+Project 2 is built on by Project 3.Remember that the datafile "CS531_Inet.txt" contains the contents of our application in HW2? An IPv4 address and alias pair are found on each line of the file "CS531_Inet.txt".
 
-In HW2, program constructed a linked list of address_t structures, each of which contained the four integers of an IPv4 address along with a fifth component in which to store an associated alias of up to 10 characters. The binary search tree (BST) will be used in this software to replace the linked list.
+In Project 2, program constructed a linked list of address_t structures, each of which contained the four integers of an IPv4 address along with a fifth component in which to store an associated alias of up to 10 characters. The binary search tree (BST) will be used in this software to replace the linked list.
 
 usage:
 
